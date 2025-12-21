@@ -34,5 +34,9 @@
     "32": "images/icon-32.png",
     "64": "images/icon-64.png",
     "128": "images/icon-128.png"
-  }
+  },
+   "host_permissions": [
+    "*://*.youtube.com/*",
+    "*://*.google.com/*"
+  ]
 }

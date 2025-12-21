@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
 
-  const button = document.getElementById("declutterBtn");
+  const button = document.getElementById("mybutton");
 
   const resultText = document.getElementById("result");
 
