@@ -9,6 +9,8 @@ Declutter is a lightweight Chrome extension that helps keep your browser clean b
 
 -Closes Google homepage tabs (google.com, google.co.in)
 
+-Closes youtube homepage tabs
+
 -Works with one click from the extension popup
 
 -Works with a keyboard shortcut
@@ -23,13 +25,13 @@ Declutter is a lightweight Chrome extension that helps keep your browser clean b
 
 **How to Install (Developer Mode)**
 
-1.Open Chrome
+1.Download all files
 
-2.Go to: chrome://extensions
+2.Open Chrome
 
-3.Enable Developer mode (top right)
+3.Go to: chrome://extensions
 
-4.Download all files
+4.Enable Developer mode (top right)
 
 5.Click Load unpacked
 
